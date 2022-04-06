@@ -1,4 +1,5 @@
 ## Simple LAMP project
 
-Copy paste it and ###Please change your name.
+Copy paste it and 
+###Please change your name.
 
